@@ -10,6 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 *An Enterprise High-Performance Computing (HPC) benchmarking suite designed to analyze, evaluate, and visualize compute throughput, latency, parallel speedup ($S = T_1 / T_p$), and parallel efficiency ($E = \frac{S}{P} \times 100\%$) across modern cryptographic hashing algorithms.*
+<img width="2525" height="1151" alt="{12639EE7-9D2E-4A65-835C-5A8F21802F8C}" src="https://github.com/user-attachments/assets/53e6a24c-4685-422b-b78c-eab79009e338" />
 
 </div>
 
@@ -77,6 +78,8 @@ The system quantifies hardware scaling by running workloads across local multi-c
 ## 📊 Live Benchmark Benchmark Metrics
 
 Below are actual empirical results captured from live HPC benchmark runs across 11 parallel worker nodes:
+<img width="2506" height="1093" alt="{67F15007-5413-41D7-99B4-0A9735C0318B}" src="https://github.com/user-attachments/assets/3bbff0d5-1189-4e02-9332-a69373bbecab" />
+
 
 | Hashing Algorithm | Operation Count | Sequential Time ($T_1$) | Parallel Time ($T_{11}$) | Throughput (Hashes/sec) | Speedup Factor ($S$) | Parallel Efficiency ($E$) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
